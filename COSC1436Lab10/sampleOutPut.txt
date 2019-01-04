@@ -1,0 +1,51 @@
+[idelgado2@penguin COSC1436Lab10]$ make
+g++ CustomerData.cpp  CustomerData.h  main.cpp  PersonData.cpp  PersonData.h  PreferredCustomer.cpp  PreferredCustomer.h -o Lab10
+[idelgado2@penguin COSC1436Lab10]$ ./Lab10
+Hello, this is Lab10!
+PLease choice one o fthe following paths with the corresponding number
+1. New Customer
+2. Quit Program
+(Please input a number)
+1
+Please enter your information below, New Customer
+
+Last Name: Delgado
+
+First Name: Isaac
+
+Address: 20015 Terra Canyon
+
+City: San Antonio
+
+State: Texas
+
+Zip Code: 78255
+
+Phone #: 8189679611
+
+Would you like to be on the Mailing list?
+(input the number for the corresponding answer)
+
+1. Yes 
+2. No
+1
+
+
+Customer #1804289383
+Name: Delgado, Isaac
+Mailing Address: 20015 Terra Canyon, San Antonio, Texas, 78255
+Phone #: 8189679611
+*****Customer is on the Mailing List*****
+
+Please input how much money you have spent as our valued customer for possible discounts
+cumulative purchases: 1500
+Congradulations you get a *** 7% dicount on all future items
+
+PLease choice one o fthe following paths with the corresponding number
+1. New Customer
+2. Quit Program
+(Please input a number)
+2
+*****Goodbye*****
+
+[idelgado2@penguin COSC1436Lab10]$ 

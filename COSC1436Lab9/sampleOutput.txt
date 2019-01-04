@@ -1,0 +1,33 @@
+Welcome to Parking Ticket Program, Lab9
+Pleas fill out the following inforamtion for the parking ticket
+
+Officer Name: Bob
+Officer Badge number: 43762
+Car Make: Nissan
+Car Model: Altima
+Car Color: Grey
+Car license: Bjk785
+How many minutes has the car been illegally parked for?: 70
+
+
+**********Parking Violation, Ticket**********
+
+Ticket issued by:
+
+Officer: Bob
+Badge #: 43762
+
+**********Vehical Information**********
+
+Car Make: Nissan
+Car Model: Altima
+Car Color: Grey
+Car License: Bjk785
+
+**********Time ilegally parked**********
+
+70 minutes over amount of parking time purchased
+
+**********Amount fined**********
+
+*****Amount fined, $35.00*****

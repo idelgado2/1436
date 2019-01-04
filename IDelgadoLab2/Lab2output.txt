@@ -1,0 +1,131 @@
+*****Inputing prices for rows from file*****.....
+
+            Welcome to the Theater
+                   seats
+         123456789012345678901234567890
+Row 1    ##############################
+Row 2    ##############################
+Row 3    ##############################
+Row 4    ##############################
+Row 5    ##############################
+Row 6    ##############################
+Row 7    ##############################
+Row 8    ##############################
+Row 9    ##############################
+Row 10   ##############################
+Row 11   ##############################
+Row 12   ##############################
+Row 13   ##############################
+Row 14   ##############################
+Row 15   ##############################
+
+               Menu
+1. Buy Ticket(s)
+2. Availability
+3. Total Purchased
+4. Seating Chart
+5. Exit Program
+Please input (1, 2, 3, 4, or 5)
+1
+What Row would you like to sit in
+1
+What seat would you like
+1
+*****Your Total is $15.99*****
+Would you like to buy another ticket??
+1. Yes
+2. No go back to menu
+Please input (1 or 2)
+1
+What Row would you like to sit in
+1
+What seat would you like
+1
+
+*****Sorry that Seat is already taken*****
+*****PLease choose another*****
+
+What Row would you like to sit in
+2
+What seat would you like
+2
+*****Your Total is $30.98*****
+Would you like to buy another ticket??
+1. Yes
+2. No go back to menu
+Please input (1 or 2)
+2
+
+               Menu
+1. Buy Ticket(s)
+2. Availability
+3. Total Purchased
+4. Seating Chart
+5. Exit Program
+Please input (1, 2, 3, 4, or 5)
+2
+*****There has been 2 seats sold so far*****
+*****There are currently 448 seats left in the Theater*****
+***************************
+Row 1 has 29seats available
+Row 2 has 29seats available
+Row 3 has 30seats available
+Row 4 has 30seats available
+Row 5 has 30seats available
+Row 6 has 30seats available
+Row 7 has 30seats available
+Row 8 has 30seats available
+Row 9 has 30seats available
+Row 10 has 30seats available
+Row 11 has 30seats available
+Row 12 has 30seats available
+Row 13 has 30seats available
+Row 14 has 30seats available
+Row 15 has 30seats available
+****************************
+
+               Menu
+1. Buy Ticket(s)
+2. Availability
+3. Total Purchased
+4. Seating Chart
+5. Exit Program
+Please input (1, 2, 3, 4, or 5)
+3
+*****Your Total is $30.98*****
+
+               Menu
+1. Buy Ticket(s)
+2. Availability
+3. Total Purchased
+4. Seating Chart
+5. Exit Program
+Please input (1, 2, 3, 4, or 5)
+4
+                   seats
+         123456789012345678901234567890
+Row 1    *#############################
+Row 2    #*############################
+Row 3    ##############################
+Row 4    ##############################
+Row 5    ##############################
+Row 6    ##############################
+Row 7    ##############################
+Row 8    ##############################
+Row 9    ##############################
+Row 10   ##############################
+Row 11   ##############################
+Row 12   ##############################
+Row 13   ##############################
+Row 14   ##############################
+Row 15   ##############################
+
+               Menu
+1. Buy Ticket(s)
+2. Availability
+3. Total Purchased
+4. Seating Chart
+5. Exit Program
+Please input (1, 2, 3, 4, or 5)
+5
+
